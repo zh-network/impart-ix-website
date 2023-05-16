@@ -11,6 +11,14 @@
   --transition-fast: 0.2s;
 }
 
+.element-class {
+  background-image: url(ixp_0.png);
+  background-size: cover; /* 背景图像将填充整个元素 */
+  background-repeat: no-repeat; /* 背景图像不重复 */
+  background-position: center center; /* 背景图像居中对齐 */
+}
+
+
 /*Large Desktop*/
 /*General CSS*/
 
